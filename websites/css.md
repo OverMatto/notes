@@ -1,7 +1,7 @@
 # CSS
 
 ## Selectors
-```
+```css
 element
 .class
 #id
